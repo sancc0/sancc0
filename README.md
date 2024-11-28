@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Contreras</h1>
-<h3 align="center">A i am a very attentive person, I learn easily and I want to continue learning</h3>
+<h3 align="center">A i am a very attentive person, I learn easily and I want to continue learning. I am passionate about programming and I want to perform better in this </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sancc0&label=Profile%20views&color=0e75b6&style=flat" alt="sancc0" /> </p>
 
